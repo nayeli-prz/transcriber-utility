@@ -1,0 +1,9 @@
+node_modules/
+venv/
+.DS_Store
+
+# Ignore actual audio and transcript files — keep folders via .gitkeep
+audio/*
+!audio/.gitkeep
+output/*
+!output/.gitkeep
