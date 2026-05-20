@@ -1,0 +1,46 @@
+###Step 1
+- Navigate to Transcriptions folder
+
+##Step 2
+- Run these commands
+source venv/bin/activate
+python watch_transcriptions.py
+
+##Step 3
+- Navigate to Claude
+- Copy in this command, and make sure to attach the .txt output
+ 
+-- For Brain dump notes
+    Process this transcript based on the Transcript Analysis Guidelines: Braindump Notes (https://www.notion.so/naye/Transcript-Analysis-Guidelines-Braindump-Notes-2e708da9fc3181279a3ed8b749dc9291?source=copy_link).
+    Once again, please make sure you are using the linked guide, and creating a Notion page as instructed in the guide.
+    Please confirm you understand the task before starting.
+
+
+-- For 'Message' draft
+     Process this transcript based on the Transcript Analysis Guidelines: Draft a Message (https://www.notion.so/naye/Transcript-Analysis-Guidelines-Draft-a-Message-2e908da9fc31803a9296fefb4b934606?source=copy_link).
+    Once again, please make sure you are using the linked guide, and creating a Notion page as instructed in the guide.
+    Please confirm you understand the task before starting.
+
+-- For 'Post/Article' Draft
+    Process this transcript based on the Transcript Analysis Guidelines: Drafting a post or essay (https://www.notion.so/naye/Transcript-Analysis-Guidelines-Drafting-a-post-or-essay-2ea08da9fc3180db9115ec018adf38b9?source=copy_link.
+    Once again, please make sure you are using the linked guide, and creating a Notion page as instructed in the guide.
+    Please confirm you understand the task before starting.
+
+-- For Call Notes
+    Process this transcript based on the Transcript Analysis Guidelines: Notes from a Call with Others.
+    https://www.notion.so/naye/Transcript-Analysis-Guidelines-Notes-from-a-Call-with-Others-2ee08da9fc31802baebce920a01d4052?source=copy_link
+    Once again, please make sure you are using the linked guide, and creating a Notion page as instructed in the guide.
+    Please confirm you understand the task before starting.
+
+-- For a chat with a Business
+    Process this transcript based on the Transcript Analysis Guidelines: Notes from a conversation with a business owner
+    https://www.notion.so/naye/Transcript-Analysis-Guidelines-Notes-from-a-conversation-with-a-business-owner-30308da9fc3180059742cf894f19c2d6?source=copy_link
+    Once again, please make sure you are using the linked guide, and creating a Notion page as instructed in the guide.
+    Please confirm you understand the task before starting.
+
+
+-- For Testing
+
+   I am testing that the guidelines work properly.
+   Please process this.....
+   Since I am testing, please keep section 2 content to maximum 150 word count.

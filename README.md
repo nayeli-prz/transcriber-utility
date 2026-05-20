@@ -35,7 +35,25 @@ source venv/bin/activate        # Mac/Linux
 pip install -r requirements.txt
 ```
 
-> Note: The first time you run Whisper, it will download the model (~140 MB for `base`). This is a one-time download.
+This installs **openai-whisper** (OpenAI's open-source speech recognition library) and its dependencies. If you run into issues, you can also install it directly:
+
+```bash
+pip install openai-whisper
+```
+
+On some machines you may also need to install `setuptools-rust` or update pip first:
+
+```bash
+pip install --upgrade pip setuptools wheel
+pip install openai-whisper
+```
+
+**Verify Whisper is working:**
+```bash
+whisper --help
+```
+
+> **First run:** When the watcher runs Whisper for the first time, it will automatically download the model weights (~140 MB for `base`) from the internet. This is a one-time download per model size. Subsequent runs use the cached model.
 
 ---
 
