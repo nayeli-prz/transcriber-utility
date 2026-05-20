@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Transcription Watcher Script
-Monitors ~/Transcriptions/audio/ for new audio files and automatically
-runs Whisper to transcribe them, saving output to ~/Transcriptions/output/
+Monitors ~/transcriber-utility/audio/ for new audio files and automatically
+runs Whisper to transcribe them, saving output to ~/transcriber-utility/output/
 """
 
 import os

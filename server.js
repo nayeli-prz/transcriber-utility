@@ -6,7 +6,7 @@
  * Bridges the Transcription Workflow app with your local Whisper instance.
  *
  * SETUP:
- *   1. Save this file inside your Transcriptions/ folder
+ *   1. Save this file inside your transcriber-utility/ folder
  *   2. npm install express multer cors
  *   3. node server.js
  *
